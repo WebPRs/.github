@@ -17,11 +17,25 @@
 </p>
 
 <p align="center">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/archlinux/1793d1" alt="Arch Linux">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/neovim/57a143" alt="NeoVim">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/claude/d97757" alt="Claude Code">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/typescript/3178c6" alt="TypeScript">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/react/61dafb" alt="React">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/vuedotjs/4fc08d" alt="Vue">
-  <img height="48" width="48" src="https://cdn.simpleicons.org/nodedotjs/5fa04e" alt="Node.js">
+  <a style="text-decoration:none" href="https://notes.tazimi.dev/programming/linux/arch">
+    <img src="https://img.shields.io/badge/-Arch-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/dotfiles">
+    <img src="https://img.shields.io/badge/-NeoVim-57a143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim" />
+  </a>
+  <a style="text-decoration:none" href="https://notes.tazimi.dev/ai/agent/claude-code">
+    <img src="https://img.shields.io/badge/-Claude-d97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/bod">
+    <img src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a style="text-decoration:none" href="https://blog.tazimi.dev">
+    <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  </a>
+  <a style="text-decoration:none" href="https://lab.tazimi.dev">
+    <img src="https://img.shields.io/badge/-Vue-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+  </a>
+  <a style="text-decoration:none" href="https://github.com/sabertazimi/lab">
+    <img src="https://img.shields.io/badge/-Node.js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
 </p>
